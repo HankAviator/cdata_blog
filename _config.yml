@@ -1,23 +1,23 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno' 
-baseurl: '/jekyll-uno/'
+title: ML ideabook
+description: 'A notebook for Coursera Machine Learning course ideas'
+url: 'http://hankaviator.github.io/cdata_blog' 
+baseurl: '/cdata_blog/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Hank Quakevauld'
+# email: josh@joshgerdes.com
+# twitter_username: joshgerdes
+# github_username:  joshgerdes
+# linkedin_username:  joshgerdes
 
 # Build settings
 destination: _site
 paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 kramdown:
   # use Github Flavored Markdown
