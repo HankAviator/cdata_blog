@@ -1,23 +1,43 @@
-# material-jekyll-theme
-[Demo](http://alexcarpenter.me/material-jekyll-theme)
+# jekyll-uno
 
-![Material Jekyll Theme](https://d13yacurqjgara.cloudfront.net/users/37718/screenshots/2430279/slice_1.jpg)
+Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
 
-## Getting started
-1. `git clone https://github.com/alexcarpenter/material-jekyll-theme.git`
-2. `cd material-jekyll-theme`
-3. Configure the `_config.yml` file as needed
-4. `jekyll serve`
+> :warning:
+  This theme requires ruby and rubygems installed
 
-## Options
-Customize your options within the `_config.yml` file.
+### Features
 
-+ Theme
-  - Green
-  - Blue
-  - Orange
-  - Purple
-  - Grey
-+ Fixed Navigation
-  - True
-  - False
+* Clean layout
+* Resposive layout
+* Pagination
+* Syntax highlight
+* Social links
+* Tags listing page
+* Categories listing page
+
+---
+
+### Install and Test
+
+1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
+2. Enter the folder: `cd jekyll-uno/`
+3. If you don't have bundler installed: `gem install bundler`
+3. Install Ruby gems: `bundle install`
+4. Start Jekyll server: `jekyll serve`
+
+Access via: [http://localhost:4000/jekyll-uno](http://localhost:4000/jekyll-uno)
+
+---
+
+### Demo and Download
+
+[Demo](http://joshgerdes.com/jekyll-uno/)
+[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
+
+![jekyll-uno - free Jekyll theme](/screenshot.png)
+
+---
+
+### Copyright and license
+
+It is under [the MIT license](/LICENSE).

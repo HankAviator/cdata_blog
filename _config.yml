@@ -7,10 +7,10 @@ baseurl: '/cdata_blog/'
 
 author:
   name: 'Hank Quakevauld'
-#  email: josh@joshgerdes.com
-#  twitter_username: joshgerdes
-#  github_username:  joshgerdes
-#  linkedin_username:  joshgerdes
+# email: josh@joshgerdes.com
+# twitter_username: joshgerdes
+# github_username:  joshgerdes
+# linkedin_username:  joshgerdes
 
 # Build settings
 destination: _site
