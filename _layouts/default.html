@@ -1,16 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html class="t-{{ site.theme }}">
   {% include head.html %}
-
   <body>
-    {% include header.html %}
+    {% include navigation.html %}
 
-    <div class="content-wrapper">
-      <div class="content-wrapper__inner">
-        {{ content }}
-      </div>
+    {{ content }}
 
-      {% include footer.html %}
-    </div>
+    {% include footer.html %}
   </body>
 </html>

@@ -1,9 +1,9 @@
 # Site settings
 title: ML ideabook
 description: 'A notebook for Coursera Machine Learning course ideas'
-url: 'http://hankaviator.github.io/cdata_blog/' 
+url: 'http://hankaviator.github.io/cdata_blog' 
 baseurl: '/cdata_blog/'
-#google_analytics: 'UA-54634914-1'
+# google_analytics: 'UA-XXXXXX-X'
 
 author:
   name: 'Hank Quakevauld'
