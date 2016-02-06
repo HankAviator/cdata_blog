@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rich junkies?!
+tag: [Coursera]
 ---
 # Question selection
 The drug abuse study attracts me much for some reason. I chose **NESARC's dataset**. From experience of myself, it seems the reason why a person started using drugs isn't simple. Was it for fun? Or was the life too hard without some kind of matter for relief? And different from tobacco use, the access to drug can be significantly harder. There are many factors involved, like income, use of drug etc.
