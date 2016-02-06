@@ -6,7 +6,7 @@ tag: [Coursera]
 # Question selection
 The drug abuse study attracts me much for some reason. I chose **NESARC's dataset**. From experience of myself, it seems the reason why a person started using drugs isn't simple. Was it for fun? Or was the life too hard without some kind of matter for relief? And different from tobacco use, the access to drug can be significantly harder. There are many factors involved, like income, use of drug etc.
 
-To narrow down the range, I decide to find out if there is a correlation between  **TOTAL PERSONAL INCOME IN LAST 12 MONTHS** [*S1Q10A *] (a sign of life status, social position etc.) and **EVER USED AMPHETAMINES** [*S3BQ1A4*] (this drug was chosen for some reason too..) and how they are correlated. So, there can be three results:
+To narrow down the range, I decide to find out if there is a correlation between  **TOTAL PERSONAL INCOME IN LAST 12 MONTHS** [*S1Q10A*] (a sign of life status, social position etc.) and **EVER USED AMPHETAMINES** [*S3BQ1A4*] (this drug was chosen for some reason too..) and how they are correlated. So, there can be three results:
 1. A positive correlation between income and use duration.
 2. Negative correlation
 3. No *significant* correlation, by statistical deduction.
