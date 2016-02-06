@@ -1,8 +1,8 @@
 # Site settings
 title: Jekyll-Uno
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://hankaviator.github.io/cdata_blog/' 
-baseurl: '/jekyll-uno/'
+url: 'http://hankaviator.github.io/' 
+baseurl: '/cdata_blog/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
