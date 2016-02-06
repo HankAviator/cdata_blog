@@ -1,7 +1,7 @@
 # Site settings
 title: Jekyll-Uno
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://localhost:4000/jekyll-uno' 
+url: 'http://hankaviator.github.io/cdata_blog/' 
 baseurl: '/jekyll-uno/'
 # google_analytics: 'UA-XXXXXX-X'
 
@@ -17,7 +17,7 @@ destination: _site
 paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 kramdown:
   # use Github Flavored Markdown
