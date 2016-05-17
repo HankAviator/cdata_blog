@@ -22,4 +22,4 @@ proc corr;
 	var S1Q24FT S1Q24LB;
 run;
 ```
-[Here](../../pages/pearson.htm)'s the output. Two variables are tested and statistically significant.
+[Here](../../pages/pearson.htm)'s the output. Two variables are tested and statistically significant, with the correlation coefficient 0.65291, moderately strong positive correlation. 
