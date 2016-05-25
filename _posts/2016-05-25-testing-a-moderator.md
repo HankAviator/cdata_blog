@@ -4,7 +4,7 @@ title: Testing a moderator
 ---
 I picked `BLOOD/NATURAL FATHER EVER AN ALCOHOLIC OR PROBLEM DRINKER` (`S2DQ1` as the coding) as a candidate moderator. By common sense it's not related with tobacco dependence. Let's test it.
 
-The source code is here, I hardcoded all unknown responses as missing.
+The source code is here, I hardcoded all unknown responses as missing. `s3aq3b1` and `tab12mdx` are both category, but `tab12mdx` has only two levels, thus post-hoc test is not needed.
 
 ```
 ods html close;
@@ -19,7 +19,6 @@ data work;
 	set worklib.nesarc_pds;
 	select;
 		when (s3aq3b1=9) s3aq3b1=.;
-		when (S2AQ4B=99) S2AQ4B=.; 
 		otherwise;
 	end;
 run;
